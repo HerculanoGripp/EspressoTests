@@ -135,7 +135,4 @@ public class MainActivityTest {
         intended(matcher);
         Intents.release();
     }
-
-
-
 }
